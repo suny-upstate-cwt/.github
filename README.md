@@ -28,14 +28,11 @@ For more information, visit our website: [Upstate Educational Communications](ht
 This repository includes:
 
 ```plaintext
-.github/                # GitHub configuration files (workflows, templates)
-LICENSE.md                 # Licensing information
-README.md               # This file
+.github/              # GitHub configuration files (workflows, templates)
+profile/README.md     # The Readme file that is displayed on the github organizations profile page
+LICENSE.md            # Licensing information
+README.md             # This file
 ```
-
-- **website/**: Source code for main SUNY Upstate sites.
-- **tools/**: Scripts and utilities for campus operations or deployments.
-- **components/**: Modular components shared between web projects.
 
 ---
 
