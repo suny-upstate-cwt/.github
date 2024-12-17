@@ -23,22 +23,6 @@ For more information, visit our website: [Upstate Educational Communications](ht
 
 ---
 
-## Repository Structure
-
-This repository includes:
-
-```plaintext
-.github/                # GitHub configuration files (workflows, templates)
-LICENSE.md                 # Licensing information
-README.md               # This file
-```
-
-- **website/**: Source code for main SUNY Upstate sites.
-- **tools/**: Scripts and utilities for campus operations or deployments.
-- **components/**: Modular components shared between web projects.
-
----
-
 ## Contact Information
 
 - **Web Technologies Team - Educational Communications**
