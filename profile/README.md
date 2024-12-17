@@ -1,6 +1,6 @@
-# SUNY Upstate Campus Web Technologies Github Repository
+# SUNY Upstate Campus Web Technologies
 
-Welcome to the **SUNY Upstate Campus Web Technologies** repository! This repository supports the development and maintenance of web technologies that enhance communication, education, and digital experiences at SUNY Upstate Medical University.
+Welcome to the **SUNY Upstate Campus Web Technologies** Github! We support the development and maintenance of web technologies that enhance communication, education, and digital experiences at SUNY Upstate Medical University.
 
 ---
 
@@ -20,22 +20,6 @@ Welcome to the **SUNY Upstate Campus Web Technologies** repository! This reposit
 - Video production
 
 For more information, visit our website: [Upstate Educational Communications](https://www.upstate.edu/edcomm/)
-
----
-
-## Repository Structure
-
-This repository includes:
-
-```plaintext
-.github/                # GitHub configuration files (workflows, templates)
-LICENSE.md                 # Licensing information
-README.md               # This file
-```
-
-- **website/**: Source code for main SUNY Upstate sites.
-- **tools/**: Scripts and utilities for campus operations or deployments.
-- **components/**: Modular components shared between web projects.
 
 ---
 
